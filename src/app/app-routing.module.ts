@@ -22,7 +22,7 @@ const routes: Routes = [
     component: CommentsComponent
   },
   {
-    path: 'job',
+    path: 'jobs',
     component: JobStoriesComponent
   },
   {

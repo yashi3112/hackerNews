@@ -126,5 +126,8 @@
       }
     }
   },
-  "defaultProject": "hackerNews"
+  "defaultProject": "hackerNews",
+  "cli": {
+    "analytics": false
+  }
 }
